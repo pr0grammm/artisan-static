@@ -1,6 +1,6 @@
 ---
-title: trial
+title: some post title
 date: 2021-09-04
 comments: true
 ---
-check
+some post content
